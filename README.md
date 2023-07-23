@@ -29,7 +29,7 @@ it should run on 127.0.0.1:8000<br>
 <strong>DO NOT CLOSE THE TERMINAL</strong>
 
 ## Installation | frontend
-redirect your location to frontend and then first-app folder and open aother terminal.
+redirect your location to frontend and then first-app folder, and open another terminal.
 you should already have [npm](https://nodejs.org/en/download) installed.
 now use npm to install required packages
 ```bash
