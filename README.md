@@ -40,3 +40,4 @@ now run the server for React project by using this command:
 ```bash
 npm start
 ```
+it should run the server on 127.0.0.1:3000
