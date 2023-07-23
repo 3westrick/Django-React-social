@@ -30,7 +30,7 @@ it should run on 127.0.0.1:8000<br>
 
 ## Installation | frontend
 redirect your location to frontend and then first-app folder and open aother terminal.
-you should already have [npm]([https://pip.pypa.io/en/stable/](https://nodejs.org/en/download)https://nodejs.org/en/download) installed.
+you should already have [npm](https://nodejs.org/en/download) installed.
 now use npm to install required packages
 ```bash
 npm install
