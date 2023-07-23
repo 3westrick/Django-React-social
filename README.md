@@ -16,11 +16,11 @@ now to activate the environment (on mac)
 source env/bin/activate
 ```
 You should see "(env)" in your terminal, at the beginning of the line.<br>
-Now use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements for backend.
+Next use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements for backend.
 ```bash
 pip install -r requirements.txt
 ```
-now enter the main folder and run the server
+And finally enter the main folder and run the server
 ```bash
 cd mytest
 python manage.py runserver
