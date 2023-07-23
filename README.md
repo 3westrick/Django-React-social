@@ -1,7 +1,8 @@
 # Django-React-social
 This is an web application based on Django rest Framework and React.js .
 
-<img width="1440" alt="Screenshot 2023-07-23 at 4 13 01 PM" src="https://github.com/3westrick/Django-React-social/assets/109426803/7f324c90-e0e7-43e6-936b-e52cbb698adc">
+<img width="1440" alt="Screenshot 2023-07-23 at 4 13 10 PM" src="https://github.com/3westrick/Django-React-social/assets/109426803/840e1c8f-c4bd-4434-b5d9-1b5a598b63d7">
+
 
 ## Installation | backend
 first open the terminal and go to backend folder.<br>
